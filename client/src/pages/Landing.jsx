@@ -35,7 +35,7 @@ export default function Landing() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-24 text-center">
         <div className="inline-flex items-center gap-2 bg-white border border-beige-200 rounded-full px-4 py-1.5 text-sm text-gray-600 mb-8">
           <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
-          Projekt Shkollor 2024-2025
+          Projekt Shkollor 2025-2026
         </div>
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-gray-900 leading-tight mb-6">
           Garderoba jote,<br />
@@ -115,7 +115,7 @@ export default function Landing() {
 
       {/* Footer */}
       <footer className="border-t border-beige-200 py-8 text-center text-sm text-gray-400">
-        <p>Digital Closet · Projekt Shkollor 2024-2025 · Rakel, Fotika, Jasemina, Bruklin</p>
+        <p>Digital Closet · Projekt Shkollor 2025-2026 · Rakel, Fotinia, Bruklin, Anxhela dhe Jasemina</p>
       </footer>
     </div>
   );
