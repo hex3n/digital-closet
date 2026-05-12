@@ -9,7 +9,7 @@ const features = [
 ];
 
 const stats = [
-  { value: '67%', label: 'e njerezve ndihen frustrum para garderobe-s' },
+  { value: '67%', label: 'e njerezve ndihen të pavendosur para garderobe-s' },
   { value: '3min', label: 'per te gjetur outfit-in perfekt' },
   { value: '100%', label: 'falas per perdorim' },
 ];
